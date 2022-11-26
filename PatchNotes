@@ -1,1 +1,16 @@
-This page will contain all of the information for updates and patches. Newer updates will be located more toward the top.
+*********************
+** Version History **
+*********************
+
+
+*******************
+** Version 1.0.0 **
+*******************
+*
+* * Initial version of JarvisEd
+* * Contains different versions for Administrators, Teachers and Students
+* * Administrator tools include: Student Configuration, Teacher Configuration, Admin Configuration, Report Directory, Student Report History, Teacher Report History, Class List, Account School Year Details, Account Point System Settings
+* * Teacher tools include: Student List, Report History, Schedule
+* * Student tools include: Mood Reporting, Schedule
+* 
+*******************
